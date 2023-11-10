@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimsan123
 - 👀 I’m interested in programming and games  
-- 🌱 I’m currently writing a lot of c++
+- 🌱 I’m currently writing a lot of C and python
 - 📫 I’m currently working as a consulting SW dev
 
 <!---
